@@ -1,4 +1,3 @@
-theme: Architect
 # CSE110 Lab Week 1
 >"All of us do not have equal talent. But, all of us have an equal opportunity to develop our talents."    
 <br>
