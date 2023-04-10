@@ -1,7 +1,7 @@
 # CSE110 Lab Week 1
->"All of us do not have equal talent. But, all of us have an equal opportunity to develop our talents."    
+>*"All of us do not have equal talent. But, all of us have an equal opportunity to develop our talents."
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Dr. A.P.J. Abdul Kalam
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Dr. A.P.J. Abdul Kalam*
 
 ### Table of Contents
 1. [Introduction](#about-me)
@@ -63,3 +63,19 @@ I served at my church, Christian Life Center, as a Quizmaster in the [Junior Bib
 
 ![JBQ](JBQ.jpg)
 ![Music Symbol](Music%20Symbol.jpg)
+
+
+
+
+
+<br><br><br>
+**Rubric**
+- [ ] Headings
+- [ ] Styling Text
+- [ ] Quoting Text
+- [ ] Quoting Code
+- [ ] External Links
+- [ ] Section Links
+- [ ] Relative Links
+- [ ] Ordered and Unordered Lists
+- [ ] Task Lists
